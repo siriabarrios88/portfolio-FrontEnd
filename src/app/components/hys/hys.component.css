@@ -1,6 +1,7 @@
 .row{
+    padding: 20px;
     width: auto;
-    background-color: #a1b5cb;
-    padding: 10px;
+    background-color: #B2DFDB;
 }
+h1 {display: inline;}
 
